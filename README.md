@@ -2,9 +2,9 @@
 # BEGINNER - Sales / pre sales engineer
 
 ### Business related: 
-1. module "The business value of..." ```non-coding, 5 labs, 2 hours in total``` [start](https://learninglabs.cisco.com/modules/business-value-itp)
+1. module "The business value of..." ```non-coding, 5 labs, 2 hours in total``` <a href="https://learninglabs.cisco.com/modules/business-value-itp" target="_blank">start</a>
     ### Integration platform: 
-1. module "Extend Spark with 3rd party.." ```non-coding, 1 lab, 30 min``` [start](https://learninglabs.cisco.com/modules/spark-integration-services)
+1. module "Extend Spark with 3rd party.." ```non-coding, 1 lab, 30 min``` <a href="https://learninglabs.cisco.com/modules/spark-integration-services">start</a>
     ***
     # INTERMEDIATE - IT Pro's & Engineers
     ### New to Spark development?  
