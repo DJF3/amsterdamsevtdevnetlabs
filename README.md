@@ -8,6 +8,7 @@
 
 ## ["Zapier" labs](https://learninglabs.cisco.com/labs/tags/Zapier)
 - non-coding lab, take the mission to go further
+- ok for partners, not whitelisted for Cisco internal staf
 - 40 min in total
 
 
