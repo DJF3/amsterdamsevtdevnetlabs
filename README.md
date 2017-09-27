@@ -16,7 +16,8 @@
 ## ["Automating Cisco Spark" module](https://learninglabs.cisco.com/modules/automating-spark-itp)
 - Python programming
 - 5 labs, 2 hours in total
-- part of 2 days training: "DevNet Express Cloud Collaboration ITPros"
+- plus don't miss the extra ["Run a Cisco Spark Bot Locally" lab](https://learninglabs.cisco.com/tracks/devnet-express-cloud-collab-it-pro/creating-spark-bots-itp/collab-spark-botl-itp/step/1)
+- part of 2 days training: "DevNet Express Cloud Collaboration for ITPros"
 
 ## ["Creating Cisco Spark Bots" module](https://learninglabs.cisco.com/modules/creating-spark-bots-sd)
 - NodeJS programming
